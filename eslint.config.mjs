@@ -21,8 +21,11 @@ export default [
   // Кастомні правила проєкту (перенесені з .eslintrc)
   {
     languageOptions: {
-      ecmaVersion: 2022,
+      ecmaVersion: 'latest',
       sourceType: 'module',
+      parserOptions: {
+        ecmaVersion: 'latest',
+      },
       globals: {
         ...globals.browser,
         ...globals.node,
