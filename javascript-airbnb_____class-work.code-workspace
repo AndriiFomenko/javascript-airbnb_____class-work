@@ -1,16 +1,19 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "../javascript-airbnb___ajax"
-	},
-	{
-		"path": "../javascript-airbnb___async-samples"
-	},
-	{
-		"path": "../javascript-airbnb___movie-search-app"
-	}
-]
+    {
+      "path": "."
+    },
+    {
+      "path": "../javascript-airbnb___ajax"
+    },
+    {
+      "path": "../javascript-airbnb___async-samples"
+    },
+    {
+      "path": "../javascript-airbnb___movie-search-app"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "javascript-airbnb_____class-work"
+  }
 }
